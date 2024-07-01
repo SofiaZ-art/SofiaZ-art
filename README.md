@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Sofía</h1>
 - 🔭 I’m currently working on **Data Science / Data analysis / Python**
 
-<h3 align="left">Connect with me:zirionsofia@gmail.com</h3>
+<h3 align="left">Connect with me: zirionsofia@gmail.com</h3>
 <p align="left">
 </p>
 
